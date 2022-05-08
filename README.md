@@ -4,10 +4,13 @@
 it is an app to track you pet health and to know the best approaches to take care of you pet,
 so this is the backend part for that using laravel and php 
 
-![image](https://user-images.githubusercontent.com/80623614/167303750-5ca20453-ca7c-40e6-9019-8aea7354b340.png)
+the link for the xd: https://xd.adobe.com/view/922c9788-7e97-4176-b6da-c45e65430ea1-c77f/
 
 
 
-## Learning Laravel
+## features
+1-knowing best food for your pet
+2-knowing the best diet for your pet
+3-track the level of excercise of your pet
 
 
